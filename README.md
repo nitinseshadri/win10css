@@ -1,7 +1,7 @@
 # Windows 10 CSS3
 License: Apache
 
-Demo: [GitHub](https://nitinseshadri.github.io/win10css/) (recommended) | [appspot](http://win10css.appspot.com)
+Demo: (dead link)
 
 ## README
 
